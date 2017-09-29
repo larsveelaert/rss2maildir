@@ -1,0 +1,4 @@
+http://www.reddit.com/r/news/.rss REDDIT NEWS
+http://www.reddit.com/r/worldnews/.rss REDDIT WORLDNEWS
+https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw LTT
+https://demgeeks.com/feed/ DEMGEEKS
